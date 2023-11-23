@@ -1,6 +1,6 @@
 //timer properties
 const timer = {
-  pomodoro: 25,
+  pomodoro: 45,
   shortBreak: 5,
   longBreak: 15,
   longBreakInterval: 4,
