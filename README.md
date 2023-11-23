@@ -1,29 +1,11 @@
-# Pomodoro Timer Starter files
+# Pomodoro Timer
 
-Here lies the starter files for the Pomodoro timer tutorial which can be found
-here: https://freshman.tech/pomodoro-timer
+### This is a traditional Pomodoro project
 
-## Live demo
+[link to project](https://pomodoro-timer-omega-seven.vercel.app/)
 
-The completed version of this project is live at
-https://freshman-pomodoro.surge.sh/
+I looked for support and help in this [tutorial](https://freshman.tech/pomodoro-timer/#automatically-start-the-next-session)
 
-## Prerequisites
+Although my focus is not on the front end, I'd like to share a useful project involving the traditional web trio
 
-You must have [Node.js](https://nodejs.org/en/download/) and
-[npm](https://www.npmjs.com/get-npm) installed on your machine. This project was
-built against the following versions:
-
-Node v13.13.0
-npm v6.14.5
-
-## Get started
-
-Clone this repository to your local machine with:
-
-```bash
-$ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
-```
-
-`cd` into the downloaded directory and follow along with the
-[tutorial](https://freshman.tech/pomodoro-timer/).
+## You can use (〃￣︶￣)人(￣︶￣〃)
